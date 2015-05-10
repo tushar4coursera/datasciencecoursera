@@ -1,2 +1,2 @@
-# datasciencecoursera
-datasciencecoursera-test-repo
+# This is my branch for main R course work.
+R programing repo
